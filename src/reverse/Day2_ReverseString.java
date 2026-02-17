@@ -1,7 +1,7 @@
 package reverse;
 
 //Reverse the given string
-public class ReverseString {
+public class Day2_ReverseString {
 		public static void main(String[] args) {
 	
 	      String s = "java";

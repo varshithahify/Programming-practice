@@ -1,7 +1,7 @@
 package reverse;
 
 //program to check wheather the given string is pallindrome or not
-public class Palindrome {
+public class Day1_Palindrome {
 	public static void main(String[] args) {
 		  String str="mom";
 		  String res=" ";
