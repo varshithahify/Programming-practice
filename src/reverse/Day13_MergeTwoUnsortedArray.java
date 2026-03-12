@@ -3,7 +3,7 @@ package reverse;
 import java.util.Arrays;
 
 //program to merge two unsorted array into one sorted array(using inbuilt function)
-public class MergeTwoUnsortedArray {
+public class Day13_MergeTwoUnsortedArray {
 		public static void main(String[] args) {
 			int[] a1= {5,7,4};
 			int[] a2= {2,3,1};
